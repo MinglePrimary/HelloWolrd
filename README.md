@@ -1,2 +1,3 @@
 # HelloWolrd
-Just another Temple
+Just another Temple!
+I'm learning git bro! :3
